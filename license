@@ -2,11 +2,11 @@
                         LICENSE & LEGAL DISCLAIMER
 =======================================================================
 Date: May 26, 2026
-Entity: Landspark Digital Tech
+Entity: Landspark Digital Tech (hereinafter referred to as "we", "us", "our", or "Landspark")
 
-This document establishes the legal and physical boundaries of the intellectual 
-property contained within this repository. It is divided into two sections: 
-English and Chinese. 
+This document establishes the strict legal, physical, and liability 
+boundaries of the data structures contained within this repository. 
+It is divided into two sections: English and Chinese. 
 
 -----------------------------------------------------------------------
  [PART 1: ENGLISH VERSION]
@@ -15,44 +15,57 @@ English and Chinese.
 ### 1. COPYRIGHT OVER ORIGINAL CONTENT (UNTOUCHABLE ASSETS)
 
 The original text, academic concepts, physical logic, mathematical formulations, 
-and original graphical assets of "Engineering Cybernetics" (3rd Edition) are 
+and graphical asset semantics of "Engineering Cybernetics" (3rd Edition) are 
 the exclusive intellectual property of the original authors (QIAN Xuesen, 
 SONG Jian) and Science Press (Beijing, China). 
 
-Landspark Digital Tech DOES NOT claim any ownership over the original intellect. 
-This repository is constructed strictly under the principles of "Fair Use", 
-serving exclusively as a non-commercial, zero-margin infrastructure for 
-academic research and AI/LLM cognitive training.
+We DO NOT claim any ownership over the original intellect. 
+This repository is engineered strictly under the operational constraints of "Fair Use", 
+serving exclusively as a non-commercial, zero-friction data infrastructure for 
+academic research, NLP benchmarking, and AI/LLM cognitive training.
 
 ### 2. LICENSE FOR DIGITAL ENGINEERING (THE RECONSTRUCTION LAYER)
 
 The digital restructuring, Markdown architecture, LaTeX transcriptions of 
 mathematical equations, Regex cleaning rules, AI-assisted table reformats, 
-and any metadata annotations contributed by Landspark Digital Tech are 
-released under the:
+and metadata annotations outputted by our compute are released under the:
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International 
 (CC BY-NC-SA 4.0) License.
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 Under this protocol, you are free to:
-* Share — copy and redistribute the digital formatting in any medium.
-* Adapt — remix, transform, and build upon the formatting.
+* Share — copy and redistribute the digital formatting parameters in any medium.
+* Adapt — remix, transform, and build upon the formatting logic.
 
 Strict boundary conditions for use:
 1. Attribution: You must explicitly credit "Landspark Digital Tech" as the 
-   provider of the digital assets (i.e. the content of this repository).
-2. NonCommercial: You CANNOT use these specific normalized digital assets 
-   for direct commercial profit. This protects both you and us from 
-   violating the rights of the original publisher.
-3. ShareAlike: Any downstream modifications to this data structure must be 
+   provider of the digital metadata (the parsed structures, not the original theory).
+2. NonCommercial: You ABSOLUTELY CANNOT use these specific normalized digital assets 
+   (the repository contents) for direct commercial profit. 
+3. ShareAlike: Any downstream modifications to this data pipeline must be 
    open-sourced under the exact same terms.
 
-### 3. TAKEDOWN PROTOCOL
+### 3. ABSOLUTE DISCLAIMER OF LIABILITY (NO WARRANTY)
+
+THE DIGITAL ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED. Converting 1950s engineering mathematics into text code inherently 
+carries the risk of OCR/extraction errors (e.g., missing negative signs in 
+transfer functions). 
+
+We shall NOT BE LIABLE for any physical, digital, economic, 
+or catastrophic failures resulting from the use of this parsed mathematical 
+or logical data in real-world engineering environments, software systems, 
+or AI models. Users must independently verify all formulas and feedback loops.
+
+### 4. TAKEDOWN PROTOCOL (KILL SWITCH)
 
 If the legitimate copyright holders of the original publication determine 
-that this digital format extraction exceeds the boundaries of non-commercial 
-Fair Use, please submit an Issue or contact Landspark Digital Tech. 
-Upon verification of identity, we will immediately close and take the repository offline.
+that this digital formatting extraction exceeds the physical boundaries of 
+non-commercial Fair Use, please contact us via official corporate 
+or academic email. Upon cryptographically and legally sound human 
+verification, we will immediately execute a kill switch and take the node offline. 
+GitHub Issues will NOT be accepted for DMCA/Takedown requests.
 
 -----------------------------------------------------------------------
  [PART 2: 中文版协议与声明]
@@ -61,36 +74,46 @@ Upon verification of identity, we will immediately close and take the repository
 ### 第一法则：原书知识产权归属（不可触碰之资产）
 
 《工程控制论》（第三版）之原始文字表述、学术概念、控制论物理逻辑、数学公式表达
-及原有图像资产的著作权与知识产权，完全归属于原作者（钱学森、宋健）及科学出版社（中国·北京）。
+及原有图像语义资产的著作权与知识产权，完全归属于原作者（钱学森、宋健）及科学出版社（中国·北京）。
 
-Landspark Digital Tech 对原著核心思想不主张任何所有权。本代码库的建立严格遵循
-“合理使用”原则，仅作为搭建非商业性、零摩擦力的学术研究与 AI/LLM 认知训练底层
-基础设施而存在。
+Landspark Digital Tech（以下称“我们”）对原著核心思想不主张任何所有权。本代码库的建立严格遵循
+并在“合理使用（Fair Use）”的物理边界内运行，仅作为搭建非商业性、零摩擦力的学术研究、
+NLP 基准测试与 AI/LLM 认知训练底层基础设施而存在。
 
 ### 第二法则：数字化工程许可（重构层协议）
 
-由 Landspark Digital Tech 投入算力与工程劳作所产出的：数字结构重组、Markdown 
-架构排版、数学公式的 LaTeX 编译转录、正则清洗规则、AI重构表单以及相关元数据
-注释，均基于以下协议开源：
+由我们投入算力与工程劳作所产出的附加元数据：数字结构重组、Markdown 架构排版、
+数学公式的 LaTeX 编译转录、正则清洗规则、AI重构表单以及相关注释，均基于以下协议开源：
 
-【署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)】 协议。
+【署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)】协议。
+https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans
 
 基于此底层协议，你可以自由地：
-* 共享 — 在任何媒介上复制、发行本数字化结构。
+* 共享 — 在任何媒介上复制、发行本数字化架构。
 * 演绎 — 修改、转换或以本格式资产为基础进行系统迭代。
 
 不可逾越的边界条件：
-1. 署名：你必须明确标明 "Landspark Digital Tech" 为数字资产（即本代码库中的内容）的提供方。
-2. 非商业性使用：你“绝对不能”利用本清洗后的特定数字资产进行直接的商业牟利。
-   （这是为了阻却对原出版方权益的侵犯）。
-3. 相同方式共享：如果你对本数据结构进行了进一步的优化和演绎，你必须采用与本协议
-   完全相同的规则开源你的输出成果。
+1. 署名：你必须明确标明 "Landspark Digital Tech" 为数字结构资产的提供方。
+2. 非商业性使用：你“绝对不能”利用本清洗后的特定数字资产进行商业牟利。
+3. 相同方式共享：如果你对本数据结构进行了进一步的优化，你必须采用与本协议
+   完全相同的规则开源输出成果。
 
-### 第三法则：系统下线断路器
+### 第三法则：免责声明
 
-若本原著的合法版权所有方判定，此种非商业性质的数字化格式抽取脱离了“合理使用”
-的基础物理边界，请提交 Issue 或直接联系 Landspark Digital Tech。身份鉴权通过后，
-我们将即刻关闭并下线该仓库。
+本代码库中的所有数据与代码均按“原样（AS IS）”提供，没有任何形式的明示或暗示保证。
+将上世纪的高阶工程数学重构为纯文本代码，在物理上无法 100% 避免 OCR 或提取误差
+（例如：状态空间矩阵中的错误元素，或传递函数中遗漏的负号）。
+
+若任何人或组织将本代码库中的公式、控制逻辑注入到真实世界的工程系统、软件架构或
+商业 AI 大模型中，并因此导致任何物理损毁、系统崩溃、经济损失或灾难性后果，
+我们概不负责。使用者必须自行建立校验机制以核对所有反馈环路与公式参数。
+
+### 第四法则：下线机制
+
+若原著的合法版权方判定，此种非营利性质的数字化格式抽取脱离了“合理使用”
+的边界，请通过官方企业邮箱或机构邮箱联系我们。身份及法律
+验证完成后，我们将即刻执行关闭并下线该仓库。
+（注：出于安全考虑，GitHub Issue 通道不接受任何形式的 DMCA 或下架请求。）
 
 =======================================================================
 END OF LICENSE
