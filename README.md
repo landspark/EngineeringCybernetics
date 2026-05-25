@@ -1,8 +1,8 @@
-# Engineering Cybernetics - Digital Reconstruction
+# Engineering Cybernetics
 
 [![Organization](https://img.shields.io/badge/org-Landspark-blue)](https://github.com/landspark) 
 [![Format](https://img.shields.io/badge/format-Markdown%20%2B%20LaTeX-green)](#) 
-[![Language](https://img.shields.io/badge/Language-中文%20%7C%20Chinese-red)](#)
+[![Data Language](https://img.shields.io/badge/Data-中文%20%7C%20Chinese-red)](#)
 
 ## Languages
 
